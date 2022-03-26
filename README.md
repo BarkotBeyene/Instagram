@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/BarkotBeyene/Instagram/commit/fb9ac83871c0af7f49f22fbf8be7925776b44c2b' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
