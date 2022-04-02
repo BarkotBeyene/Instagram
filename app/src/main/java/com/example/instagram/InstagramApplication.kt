@@ -13,9 +13,10 @@ class InstagramApplication : Application() {
 
         Parse.initialize(
             Parse.Configuration.Builder(this)
-                .applicationId(getString(R.string.back4app_app_id))
-                .clientKey(getString(R.string.back4app_client_key))
+                .applicationId("HMXtrIFqNPRkAquuNiufcWrQYSSgAw07Rp0KwgjS")
+                .clientKey("NClZVkuyfd40ymew44yLf9bNwQmZcWmDkzEHDU2w")
                 .server(getString(R.string.back4app_server_url))
                 .build());
+
     }
 }
