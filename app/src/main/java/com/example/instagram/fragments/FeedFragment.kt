@@ -24,7 +24,6 @@ open class FeedFragment : Fragment() {
     lateinit var adapter: PostAdapter
 
     var allPosts: MutableList<Post> = mutableListOf()
-
     lateinit var swipeContainer: SwipeRefreshLayout
 
     override fun onCreateView(
